@@ -33,7 +33,9 @@ The funnel includes:
 - purchase
 
 ## 📊 Dashboard
-👉 [View Tableau Dashboard] (https://public.tableau.com/views/EcommerceConversionDashboard_17729882212460/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+👉 ## 📊 Interactive Dashboard
+
+👉 [View Tableau Dashboard](https://public.tableau.com/views/EcommerceConversionDashboard_17729882212460/Dashboard1)
 
 ## 🎥 Presentation
 👉 [Watch Project Walkthrough] (https://www.loom.com/share/e88a9e6f782448efba5b2f6c6ae6389e)
