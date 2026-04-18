@@ -1,5 +1,5 @@
 # Ecommerce Conversion Dashboard (GA4 + Tableau)
-
+![Dashboard](images/dashboard.png)
 ## 📊 Project Overview
 This project analyzes the ecommerce conversion funnel using Google Analytics 4 (GA4) data.
 
