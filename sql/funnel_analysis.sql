@@ -1,3 +1,7 @@
+-- Ecommerce Funnel Analysis (GA4)
+-- Author: Halyna Lanovska
+-- Description: Session-level funnel analysis using GA4 BigQuery dataset
+
 -- Project 1: Ecommerce funnel (GA4 public dataset)
 -- Output: 1 row = 1 session (session-level), ready for Tableau funnel + filters
 
