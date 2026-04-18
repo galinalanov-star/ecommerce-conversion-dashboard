@@ -81,4 +81,10 @@ session_level AS (
 
 SELECT *
 FROM session_level;
+-- Funnel Step Identification (for Tableau visualization)
+-- Each column represents a step in the conversion funnel
+
+-- Business Insight:
+-- This dataset helps identify drop-off points in the conversion funnel
+-- and supports optimization of user journey and marketing performance
 
