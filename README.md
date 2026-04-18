@@ -38,8 +38,8 @@ The funnel includes:
 ## 🎥 Presentation
 👉 [Watch Project Walkthrough] (https://www.loom.com/share/e88a9e6f782448efba5b2f6c6ae6389e)
 ## 📄 Presentation
-
 👉 [View Presentation](presentation/project_overview.pdf)
+
 ## 💡 Key Insights
 - Most users drop off at add_to_cart stage
 - Mobile users have lower conversion rate
