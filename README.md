@@ -37,7 +37,7 @@ The funnel includes:
 
 👉 [View Tableau Dashboard](https://public.tableau.com/views/EcommerceConversionDashboard_17729882212460/Dashboard1)
 
-## 🎥 Presentation
+## 🎥 Project Walkthrough
 👉 [Watch Project Walkthrough] (https://www.loom.com/share/e88a9e6f782448efba5b2f6c6ae6389e)
 ## 📄 Presentation
 👉 [View Presentation](presentation/project_overview.pdf)
