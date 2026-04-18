@@ -42,6 +42,9 @@ The funnel includes:
 ## 📄 Presentation
 👉 [View Presentation](presentation/project_overview.pdf)
 
+## 🧾 SQL Query
+👉 [View SQL Query](sql/funnel_analysis.sql)
+
 ## 💡 Key Insights
 - Most users drop off at add_to_cart stage
 - Mobile users have lower conversion rate
